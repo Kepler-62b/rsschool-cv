@@ -1,9 +1,8 @@
 ## Anatoliy Shestopalov
-![avatar](https://www.svgrepo.com/show/137617/avatar.svg "Avatar SVG")
 
 **Contact information:**
-**E-mail:** shestopalov92@gmail.com
-**Discord:** Anatoliy Shestopalov(@Kepler62b)
+- **E-mail:** shestopalov92@gmail.com
+- **Discord:** Anatoliy Shestopalov(@Kepler62b)
 
 ## Technical Experience
 **System administrator,** Mosgortrans Ltd, Moscow  
@@ -54,3 +53,5 @@ console.log (multiply(2, 2)); //4
 ```
 
 ## Projects
+- [CV project](https://kepler-62b.github.io/rsschool-cv/cv)
+
